@@ -25,4 +25,4 @@ robber_algorithm(df)
 [OUTPUT] --> [664, 2341, 26, 998, 9583, 24, 1, 444, 6783]
 ```
 
-You can use the `check_solution` function from `utils/check_solution.py` to test the validity of your solution and obtain a _score_.
+You can use the `check_solution` function from `check_solution.py` to test the validity of your solution and obtain a _score_.
