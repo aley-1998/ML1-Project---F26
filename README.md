@@ -1,4 +1,4 @@
-# ML1-Project - F26
+# Algorithms project - F26
 
 ## Description
 
